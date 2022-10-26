@@ -9,5 +9,6 @@
     [Kaggle notebook](https://www.kaggle.com/code/andrewteplov/shporgalik-od-wheat?scriptVersionId=109178212) | [Orig](https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-inference/notebook)  
   * segmentation: 
   
-**Tabular:**    
+**Tabular:** 
+  * ```task_final_izf.ipynb```
   
