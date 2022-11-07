@@ -8,6 +8,7 @@
   * object detection with mask-rcnn(with submission): ```object_detection_with_submit.ipynb```  
     [Kaggle notebook](https://www.kaggle.com/code/andrewteplov/shporgalik-od-wheat?scriptVersionId=109178212) | [Orig](https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-inference/notebook)  
   * segmentation: 
+  * image classification: ```face_or_profile.ipynb```  
   
 **Tabular:** 
   * ```task_final_izf.ipynb```
